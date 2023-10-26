@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xtsumeko
 - 🎮 I’m interested in video games
-- 💻 I’m currently studying at Epitech
+- 💻 Epitech student
 - 📫 atsumeko
 
 <!---
